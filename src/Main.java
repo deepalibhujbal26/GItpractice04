@@ -13,6 +13,8 @@ public class Main {
         int answer=(10+21);
         System.out.println(answer);
 
+        System.out.println("checked");
+
 
     }
 }
