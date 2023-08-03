@@ -7,9 +7,11 @@ public class Main {
         // Press Opt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
-int a=10;
+         int a=10;
         System.out.println("Trying to used Github");
-        System.out.println("PLease update some code in intellij"+a);
+        System.out.println("PLease update some code in intellij "+ a);
+        int answer=(10+21);
+        System.out.println(answer);
 
 
     }
