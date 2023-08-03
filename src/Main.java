@@ -9,6 +9,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
 
         System.out.println("Trying to used Github");
+        System.out.println("PLease update some code in intellij");
 
 
     }
